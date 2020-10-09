@@ -1,6 +1,6 @@
 # Swift Helper
 
-O SwiftHelper ajuda os novos programadores a aprender coisas novas todos os dias, através de tutoriais simples baseados no nível de conhecimento do usuário, buscando a melhor experiência sempre. Além disso, traz diversas curiosidades e informações sobre Swift e Apple.
+O Swift Helper ajuda os novos programadores a aprender coisas novas todos os dias, através de tutoriais simples baseados no nível de conhecimento do usuário, buscando a melhor experiência sempre. Além disso, traz diversas curiosidades e informações sobre Swift e Apple.
 
 Features:
 - Dividido por níveis de conhecimento
